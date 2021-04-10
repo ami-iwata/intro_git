@@ -1,3 +1,6 @@
 Gitの練習をしてきます
 
+
 変更追加
+.git add
+.git commit
